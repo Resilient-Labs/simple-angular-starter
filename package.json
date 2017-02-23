@@ -1,0 +1,25 @@
+{
+  "name": "simple-angular-starter",
+  "version": "1.0.0",
+  "description": "Simple Angular Starter for developers getting started building Single Page Applications in AngularJS",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Muigai O. Unaka",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-loader": "^1.6.2",
+    "angular-route": "^1.6.2",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.4",
+    "requirejs": "^2.3.3"
+  }
+}
