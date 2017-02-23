@@ -19,13 +19,13 @@
              i.e. when on website.com/ the webpage shows the html in
              */
             .when("/", {
-                templateUrl: "../views/view-one.html"
+                templateUrl: "views/view-one.html"
             })
             .when("/view-one", {
-                templateUrl: "../views/view-one.html"
+                templateUrl: "views/view-one.html"
             })
             .when("/view-two", {
-                templateUrl: "../views/view-two.html"
+                templateUrl: "views/view-two.html"
             })
             .otherwise({
                 redirectTo: "/"
