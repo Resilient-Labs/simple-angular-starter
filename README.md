@@ -5,6 +5,6 @@
 3. npm install
 4. python -m SimpleHTTPServer
 5. go to browser and type in localhost:8000
-6. Navigate here to view http://localhost:8000/public/#/view-one
+6. Navigate here to view the root route http://localhost:8000/public/#/
 
 #Getting Started
